@@ -1,4 +1,4 @@
-![26](https://github.com/abdul-1432/js-26_Hover_navi/assets/124916666/259c7f7d-5bf9-4d62-828c-171f2ad1d59d)# Hover Navigation Bar Using HTML, CSS, and JavaScript
+# Hover Navigation Bar Using HTML, CSS, and JavaScript
 
 ## Preview
 
