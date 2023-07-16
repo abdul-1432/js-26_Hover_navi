@@ -107,7 +107,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgments
 
-- The inspiration for this project came from [source/inspiration-link].
+- The inspiration for this project came from [(https://codepen.io/abdul-1432/pen/ExOEXWB)].
 
 ---
 
