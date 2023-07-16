@@ -29,7 +29,7 @@ To run this project locally, you need to have the following installed on your ma
 1. Clone this repository to your local machine:
 
    ```bash[
-   (https://github.com/abdul-1432/js-26_Hover_navi/edit/main/README.md)
+   (https://github.com/abdul-1432/js-26_Hover_navi/js-26)
    ```
 
 2. Navigate to the project directory:
