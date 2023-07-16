@@ -1,6 +1,8 @@
-# Hover Navigation Bar Using HTML, CSS, and JavaScript
+![26](https://github.com/abdul-1432/js-26_Hover_navi/assets/124916666/259c7f7d-5bf9-4d62-828c-171f2ad1d59d)# Hover Navigation Bar Using HTML, CSS, and JavaScript
 
-![Hover Navigation Bar](hover-navigation-bar-demo.gif)
+## Preview
+
+![26](https://github.com/abdul-1432/js-26_Hover_navi/assets/124916666/921c2884-9114-4983-a4cb-2c1eae1fb1a5)
 
 This project is a simple and elegant hover navigation bar built using HTML, CSS, and JavaScript. The navigation bar displays a set of items, and when the user hovers over each item, a beautiful hover effect is triggered, providing a smooth and interactive user experience.
 
